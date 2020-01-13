@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "GradientView"
+  s.name         = "GradientViewInspectable"
   s.version      = "1.0"
   s.summary      = "Use gradient view easily from interface builder or code."
   s.homepage     = "https://github.com/shoaib-akhtar/GradientView"
