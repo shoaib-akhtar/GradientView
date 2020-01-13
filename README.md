@@ -4,7 +4,7 @@ Use gradient easily from interface builder or code.
 ![CocoaPods](https://cocoapod-badges.herokuapp.com/v/GradientViewInspectable/badge.png)
 
 <p align="center">
-<img align="center" src="https://github.com/shoaib-akhtar/GradientView/blob/master/ezgif.com-video-to-gif.gif" width="480" />
+<img align="center" src="https://github.com/shoaib-akhtar/GradientView/blob/master/ezgif.com-video-to-gif.gif" width="600" />
 </p>
 
 
