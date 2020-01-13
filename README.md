@@ -4,8 +4,7 @@ Use gradient easily from interface builder or code.
 ![CocoaPods](https://cocoapod-badges.herokuapp.com/v/GradientViewInspectable/badge.png)
 
 <p align="center">
-<a href="https://imgflip.com/gif/3lyjon"><img src="https://imgflip.com/gif/3lyjon.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://imgflip.com/gif/3lyjon"><img src="https://imgflip.com/gif/3lyjon.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3lyjwq"><img src="https://i.imgflip.com/3lyjwq.gif" title="Gradient View"/>
 </p>
 
 
