@@ -10,8 +10,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '11.0'
   s.requires_arc = true
   s.source_files = "GradientView/*.swift"
-  s.resource_bundles = { "GradientView" => "GradientView/*.{lproj,storyboard,png}" }
-  s.resource = 'GradientView/*.{storyboard,png}'
   s.frameworks   = 'Foundation', 'UIKit'
   s.swift_version = '5.0'
 end
